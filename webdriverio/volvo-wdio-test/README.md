@@ -1,9 +1,3 @@
-## Volvo Campaign Team WebdriverIO (WDIO) Automation set-up
-
-This project demonstrate automation test suites set-up for Campaign
-Volvo team. Automation testing will be done using WebdriverIO
-framework with page object pattern and Docker images set-up.
-
 ## System Requirements
 
 - Node.js v16.15.1 or greater (https://nodejs.org/)
